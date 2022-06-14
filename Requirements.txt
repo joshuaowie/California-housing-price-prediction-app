@@ -1,8 +1,7 @@
 RandomForestRegressor
-StandardScaler
-from sklearn.preprocessing import LabelEncoder
+scikit-learn
 shap
 pandas
 numpy
 streamlit
-matplotlib.pyplot
+matplotlib
